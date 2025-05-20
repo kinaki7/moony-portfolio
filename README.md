@@ -1,20 +1,22 @@
-# Moony's Portfolio - Visual Web Showcase
+# 🌕 Moony's Portfolio - Visual Web Showcase
 
-このポートフォリオは、月の満ち欠けアニメーションを中心に構成されたインタラクティブなウェブポートフォリオです。  
-音楽・映像・ビジュアル作品を一つの世界観に統合して表現しています。
+このポートフォリオは、**月の満ち欠けアニメーション**を中心に構成されたインタラクティブなウェブサイトです。  
+音楽・映像・ビジュアル作品を、一つの世界観に統合して表現しています。
 
-## 🌕 概要
+---
 
-- 月の影アニメーションによるインパクトあるヒーローセクション
-- Instagram・YouTubeへのリンクで作品に直接アクセス
+## 🌟 概要
+
+- 月の影アニメーションによる印象的なヒーローセクション
+- Instagram・YouTubeへのリンクから作品を直接閲覧可能
 - オリジナル音楽 & MVセクションあり
-- スクロール連動でスムーズなユーザー体験
+- スクロールに連動したスムーズなユーザー体験
+
+---
 
 ## 🔗 デモページ（GitHub Pages）
 
-👉 [https://your-username.github.io/portfolio](https://kinaki7.github.io/unexu.github.io/)
-
-
+👉 [https://kinaki7.github.io/unexu.github.io/](https://kinaki7.github.io/unexu.github.io/)
 
 ---
 
@@ -22,16 +24,17 @@
 
 - HTML5
 - CSS3（アニメーション、`clip-path`, `mix-blend-mode` など）
-- フルレスポンシブ設計
+- レスポンシブデザイン対応
 - YouTube / Instagram 外部リンク対応
 
 ---
 
-## 📂 構成ファイル
+## 📁 ファイル構成
+
 ├── index.html
 ├── style.css
 ├── assets/
-│ └── screenshot.png（）
+│ └── screenshot.png （※ プレビュー画像）
 
 
 ---
@@ -39,21 +42,32 @@
 ## 📸 プレビュー
 
 ![screenshot](./assets/screenshot.png)
+
 ---
 
 ## 💡 特徴
 
-- 🌘 `clip-path` と `@keyframes` を使った満ち欠けアニメーション
-- 🔗 ボタン1つでInstagram・YouTube作品にジャンプ
-- 🌌 月をテーマにした静謐なデザインと演出
+- 🌘 `clip-path` と `@keyframes` を活用した月の満ち欠けアニメーション
+- 🔗 ワンクリックでSNS作品にジャンプできる導線設計
+- 🌌 月をテーマにした幻想的・静謐なビジュアル演出
 
 ---
 
-## 🚀 ローカルで使うには
+## 🚀 ローカルで表示する方法
+
+以下のコマンドでローカル表示が可能です：
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-open index.html  # またはブラウザで開く
+git clone https://github.com/kinaki7/unexu.github.io.git
+cd unexu.github.io
+open index.html  # Mac の場合（Windows は start index.html）
+📍 Windows の場合：
 
+start index.html
+📍 Linux の場合：
 
+xdg-open index.html
+©️ ライセンス
+
+このプロジェクトの著作権は Moony（@kinaki7） に帰属します。
+画像・音楽・映像作品は無断転載禁止です。
