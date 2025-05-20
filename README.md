@@ -1,7 +1,8 @@
 # 🌕 Moony's Portfolio - Visual Web Showcase
 
 このポートフォリオは、**月の満ち欠けアニメーション**を中心に構成されたインタラクティブなウェブサイトです。  
-音楽・映像・ビジュアル作品を、一つの世界観に統合して表現しています。
+音楽・映像・ビジュアル作品を、一つの世界観に統合し、「月の感情」をテーマに表現しています。
+
 
 ---
 
@@ -16,7 +17,9 @@
 
 ## 🔗 デモページ（GitHub Pages）
 
-👉 [https://kinaki7.github.io/unexu.github.io/](https://kinaki7.github.io/unexu.github.io/)
+👉 [デモを開く（GitHub Pages）](https://kinaki7.github.io/unexu.github.io/)  
+（※ PC / スマートフォンで動作確認済）
+
 
 ---
 
@@ -41,6 +44,8 @@
 
 ## 📸 プレビュー
 
+トップページに表示されるヒーローセクション（月と影のアニメーション）のスクリーンショットです。
+
 ![screenshot](./assets/screenshot.png)
 
 ---
@@ -50,6 +55,8 @@
 - 🌘 `clip-path` と `@keyframes` を活用した月の満ち欠けアニメーション
 - 🔗 ワンクリックでSNS作品にジャンプできる導線設計
 - 🌌 月をテーマにした幻想的・静謐なビジュアル演出
+- 🖥️ アーティスト・クリエイターのポートフォリオ、作品紹介に最適
+
 
 ---
 
